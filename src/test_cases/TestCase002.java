@@ -9,6 +9,8 @@ public class TestCase002 {
 
         // writing smoke tests ...
 
+        // screenshot in failure
+
 
 
 
